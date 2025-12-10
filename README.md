@@ -530,7 +530,7 @@ If you encounter other issues:
 ## 🤝 Contributing
 
 Contributions are welcome!
-"This project is a comprehensive example of building a production-grade Flutter AI application using Clean Architecture, Riverpod, and Google Gemini for image recognition."
+- This project is a comprehensive example of building a production-grade Flutter AI application using Clean Architecture, Riverpod, and Google Gemini for image recognition.
 ---
 
 ## 📄 License
