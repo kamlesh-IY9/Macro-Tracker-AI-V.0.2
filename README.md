@@ -385,6 +385,13 @@ macro_tracker_ai/
 
 ## 🛠️ Tech Stack
 
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
+![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
+![Google Gemini](https://img.shields.io/badge/Google%20Gemini-%238E75B2.svg?style=for-the-badge&logo=google&logoColor=white)
+![Riverpod](https://img.shields.io/badge/Riverpod-%232D3440.svg?style=for-the-badge&logo=flutter&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)
+
 ### Core Framework
 - **[Flutter](https://flutter.dev)** `^3.0.0` - Cross-platform UI framework
 - **[Dart](https://dart.dev)** `^3.0.0` - Programming language
@@ -523,6 +530,7 @@ If you encounter other issues:
 ## 🤝 Contributing
 
 Contributions are welcome!
+"This project is a comprehensive example of building a production-grade Flutter AI application using Clean Architecture, Riverpod, and Google Gemini for image recognition."
 ---
 
 ## 📄 License
