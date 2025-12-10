@@ -66,17 +66,15 @@
 
 ### Application Walkthrough
 
-````carousel
-![Demo Video 1 - Main Features](file:///c:/Users/Karan/Documents/Sem%209/Capstrone%20Project/macro_tracker_ai-main/Recording%202025-12-10%20212315.mp4)
+https://github.com/user-attachments/assets/141a32b7-cc3b-4e3b-8932-39ede3e6de2f
 
 *Main dashboard, AI food logging, and tracking features*
 
-<!-- slide -->
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/8c90719b-2e04-42fb-97b4-08a0c2e2dc11" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/5e1df4ca-2cea-4fe8-930b-0335dba6449a" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/0026b38d-e077-409d-a840-74000ed81bcd" />
 
-![Demo Video 2 - Advanced Features](file:///c:/Users/Karan/Documents/Sem%209/Capstrone%20Project/macro_tracker_ai-main/Recording%202025-12-10%20212344.mp4)
-
-*Meal planning, charts, and AI coach interactions*
-````
+*Firebase images with store data*
 
 > **Note**: Demo videos showcase the application's key features including AI-powered food logging, real-time macro tracking, weight trends, meal planning, and the AI nutrition coach.
 
