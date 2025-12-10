@@ -522,44 +522,7 @@ If you encounter other issues:
 
 ## 🤝 Contributing
 
-Contributions are welcome! Here's how you can help:
-
-### How to Contribute
-
-1. **Fork the repository**
-2. **Create a feature branch**
-   ```bash
-   git checkout -b feature/amazing-feature
-   ```
-3. **Make your changes**
-4. **Commit your changes**
-   ```bash
-   git commit -m 'Add some amazing feature'
-   ```
-5. **Push to the branch**
-   ```bash
-   git push origin feature/amazing-feature
-   ```
-6. **Open a Pull Request**
-
-### Development Guidelines
-
-- Follow Flutter/Dart style guidelines
-- Write meaningful commit messages
-- Add comments for complex logic
-- Test on multiple platforms before submitting
-- Update documentation as needed
-
-### Areas for Contribution
-
-- 🌍 Multi-language support
-- 🍎 Recipe database integration
-- 🏋️ Exercise tracking
-- 📊 More chart types and analytics
-- 🎨 Theme customization
-- 🔔 Notifications and reminders
-- 🌐 Social features (meal sharing, challenges)
-
+Contributions are welcome!
 ---
 
 ## 📄 License
